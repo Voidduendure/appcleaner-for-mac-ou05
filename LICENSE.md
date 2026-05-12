@@ -1,4 +1,4 @@
-
+Enhance AppCleaner for macOS with instant AppCleaner for macOS Module | system-cleanup + quick-launch, the #1 module. Includes system-cleanup and quick-launch for a smoother macOS
 
 
 
